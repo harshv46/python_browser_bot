@@ -10,7 +10,7 @@ driver = None
 URL = "https://www.codechef.com/"
 
 #put your teams credentials here
-CREDS = {'user' : 'harshv_iit','passwd':'H@rshvardhan1'}
+CREDS = {'user' : '','passwd':''}
 
 
 
